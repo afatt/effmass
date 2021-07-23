@@ -1,5 +1,5 @@
 vasppy>=0.5.0.0
-octopuspy>=1.0.2
+octopuspy>=1.0.3
 scipy
 numpy
 matplotlib
